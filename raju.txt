@@ -1,0 +1,7 @@
+1)trackby in angular?
+2)can we use ngFor and ngIf on single element in angular?
+3)can we use multiple routerOutLet?
+4)deference between forChild and forRoot?
+
+
+
